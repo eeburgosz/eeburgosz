@@ -1,4 +1,5 @@
-![Image text](https://github.com/eeburgosz/blob/brand.png)
+![brand](https://user-images.githubusercontent.com/63740336/192930714-040da663-adb6-41cc-9a00-d3e816275559.png)
+
 <h1 align="center">Hi 👋, I'm Ernesto Burgos</h1>
 <h3 align="center">A passionate fullstack developer from Venezuela living in Argentina</h3>
 
